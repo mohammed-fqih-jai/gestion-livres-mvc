@@ -1,6 +1,6 @@
 -- Création de la base de données
-CREATE DATABASE IF NOT EXISTS gr1Tp1Db;
-USE gr1Tp1Db;
+CREATE DATABASE IF NOT EXISTS gestion_livres;
+USE gestion_livres;
 
 -- Table AUTEUR
 CREATE TABLE IF NOT EXISTS AUTEUR (
@@ -29,7 +29,7 @@ CREATE TABLE IF NOT EXISTS UTILISATEUR (
     role ENUM('Admin', 'Visiteur') NOT NULL DEFAULT 'Visiteur'
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
--- Insertion de données de test
+/*-- Insertion de données de test
 INSERT INTO AUTEUR (nom, prenom, genre) VALUES
 ('Dupont', 'Jean', 'Masculin'),
 ('Martin', 'Marie', 'Féminin'),
@@ -44,4 +44,4 @@ INSERT INTO LIVRE (ISBN, titre, description, date_edition, editeur, matricule) V
 
 INSERT INTO UTILISATEUR (login, password, role) VALUES
 ('admin', 'admin123', 'Admin'),
-('visiteur', 'visiteur123', 'Visiteur');
+('visiteur', 'visiteur123', 'Visiteur');*/
