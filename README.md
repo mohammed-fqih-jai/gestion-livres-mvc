@@ -102,7 +102,8 @@ src/main/webapp/
 
 <img width="1915" height="966" alt="image" src="https://github.com/user-attachments/assets/423db417-619f-48a3-b57e-85d53424e4f4" />
 
-<img width="1918" height="913" alt="image" src="https://github.com/user-attachments/assets/d99d6d5d-35e8-4f13-8f26-88996b405e67" />
+<img width="1913" height="817" alt="image" src="https://github.com/user-attachments/assets/e2d32f7c-6b0f-4023-91b2-ab441d7e66f5" />
+
 
 
 ## Technologies utilisées
