@@ -102,7 +102,8 @@ src/main/webapp/
 
 <img width="1915" height="966" alt="image" src="https://github.com/user-attachments/assets/423db417-619f-48a3-b57e-85d53424e4f4" />
 
-<img width="1913" height="817" alt="image" src="https://github.com/user-attachments/assets/e2d32f7c-6b0f-4023-91b2-ab441d7e66f5" />
+<img width="1917" height="916" alt="image" src="https://github.com/user-attachments/assets/1b3bf827-fd7a-4abf-b8ac-13330b41482d" />
+
 
 
 
