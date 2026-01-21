@@ -98,6 +98,11 @@ src/main/webapp/
 | Ajouter un livre | ✓ | ✗ |
 | Modifier un livre | ✓ | ✗ |
 | Supprimer un livre | ✓ | ✗ |
+## screen 
+![Uploading image.png…]()
+
+<img width="1918" height="913" alt="image" src="https://github.com/user-attachments/assets/d99d6d5d-35e8-4f13-8f26-88996b405e67" />
+
 
 ## Technologies utilisées
 - Java 17
